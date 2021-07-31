@@ -1,16 +1,9 @@
-# profile_app
+# Design App
 
-A new Flutter project.
+O design desse aplicativo foi todo elaborado por cima deste [repositório](https://github.com/pedromassango/my_flutter_challenges/blob/master/lib/profile_challenge.dart). O que fiz foi somente modificar algumas partes e treinar minhas habilidades.
 
-## Getting Started
+## Sobre a foto
 
-This project is a starting point for a Flutter application.
+A pessoa na foto é [Marina Rios](https://www.youtube.com/channel/UCZcL8IRLODpPz0BMawLuWbA), se de alguma forma eu estou sendo grosso ou lhe desrespeitando, então eu removerei essa foto.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot app](https://github.com/HDG-Gabriel/flutter_snippets/blob/main/profile/profile_app/images/screenshot.png)
