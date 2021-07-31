@@ -1,16 +1,7 @@
-# beer_coffe
+# Créditos
 
-A new Flutter project.
+O design do aplicativo foi todo eleborado pela [Dribbble](https://br.pinterest.com/pin/656892295641405505/), onde eu somente tentei replicar o design e melhorar minhas habilidades.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image app](https://github.com/HDG-Gabriel/flutter_snippets/blob/main/beer_coffe/beer_coffe/screenshots/screenshot.png)
