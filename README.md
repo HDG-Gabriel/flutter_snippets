@@ -4,7 +4,7 @@
  | --- | --- | --- |
  | ![santander](https://github.com/gotneb/flutter_snippets/blob/main/screenshots/santander_ui.png) | ![profile_app](https://github.com/gotneb/flutter_snippets/blob/main/screenshots/profile_app.png) | ![profile](https://github.com/gotneb/flutter_snippets/blob/main/screenshots/profile.png) |
  
- | [beer_cofee](https://github.com/gotneb/flutter_snippets/tree/main/beer_coffe/beer_coffe) |
- | -- |
- | ![beer_coffe](https://github.com/gotneb/flutter_snippets/blob/main/screenshots/beer_coffe.png) |
+ | [beer_cofee](https://github.com/gotneb/flutter_snippets/tree/main/beer_coffe/beer_coffe) | [coffee_auth](https://github.com/gotneb/flutter_snippets/tree/main/coffee_app)
+ | -- | -- |
+ | ![beer_coffe](https://github.com/gotneb/flutter_snippets/blob/main/screenshots/beer_coffe.png) | ![coffee_auth](https://github.com/gotneb/flutter_snippets/blob/main/screenshots/coffee_auth.gif)
  
